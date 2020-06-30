@@ -1,0 +1,51 @@
+Package: snapd
+Pin: release *
+Pin-Priority: -1
+
+Package: snapd-glib-tests
+Pin: release *
+Pin-Priority: -1
+
+Package: snapd-xdg-open
+Pin: release *
+Pin-Priority: -1
+
+Package: ubuntu-core-snapd-units
+Pin: release *
+Pin-Priority: -1
+
+Package: snap-confine
+Pin: release *
+Pin-Priority: -1
+
+Package: qml-module-snapd
+Pin: release *
+Pin-Priority: -1
+
+Package: libsnapd-qt1
+Pin: release *
+Pin-Priority: -1
+
+Package: libsnapd-qt-dev
+Pin: release *
+Pin-Priority: -1
+
+Package: libsnapd-glib1
+Pin: release *
+Pin-Priority: -1
+
+Package: libsnapd-glib-dev
+Pin: release *
+Pin-Priority: -1
+
+Package: golang-github-snapcore-snapd-dev
+Pin: release *
+Pin-Priority: -1
+
+Package: gir1.2-snapd-1
+Pin: release *
+Pin-Priority: -1
+
+Package: ubuntu-core-launcher
+Pin: release *
+Pin-Priority: -1
